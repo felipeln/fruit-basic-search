@@ -32,9 +32,6 @@ function App() {
           setProducts(myList)
         }
       }
-      
-      
-     
      
     // parametro que diz quando o use effect deve ser executado.
     // No caso, sempre que o valor de search for alterado.
