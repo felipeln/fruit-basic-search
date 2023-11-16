@@ -1,10 +1,32 @@
 import { useEffect, useState } from "react"
 
 const myList = [
-  {id: 0, value: 'Apple'},
-  {id: 1, value: 'Banana'},
-  {id: 2, value: 'Lemon'}
-]
+  { id: 0, value: 'Apple' },
+  { id: 1, value: 'Banana' },
+  { id: 2, value: 'Lemon' },
+  { id: 3, value: 'Orange' },
+  { id: 4, value: 'Grapes' },
+  { id: 5, value: 'Strawberry' },
+  { id: 6, value: 'Mango' },
+  { id: 7, value: 'Pineapple' },
+  { id: 8, value: 'Watermelon' },
+  { id: 9, value: 'Peach' },
+  { id: 10, value: 'Cherry' },
+  { id: 11, value: 'Blueberry' },
+  { id: 12, value: 'Raspberry' },
+  { id: 13, value: 'Pear' },
+  { id: 14, value: 'Plum' },
+  { id: 15, value: 'Kiwi' },
+  { id: 16, value: 'Pomegranate' },
+  { id: 17, value: 'Avocado' },
+  { id: 18, value: 'Cantaloupe' },
+  { id: 19, value: 'Fig' },
+  { id: 20, value: 'Grapefruit' },
+  { id: 21, value: 'Passion Fruit' },
+  { id: 22, value: 'Papaya' },
+  { id: 23, value: 'Apricot' },
+  { id: 24, value: 'Cranberry' }
+];
 
 function App() {
 
